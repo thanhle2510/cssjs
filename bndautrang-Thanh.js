@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='https://www.facebook.com/thietbimaytinh.vn/' target='_blank'><img src='https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-9/12920401_792860040848103_6078352763397503718_n.jpg?oh=b4001f7a08fbe628ee1f8cb056d5d24b&oe=5841EA8D' width='500px'/><br/>13 Kỹ thuật đẩy top vượt trội</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='https://www.facebook.com/thietbimaytinh.vn/' target='_blank'><img src='https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-9/12920401_792860040848103_6078352763397503718_n.jpg?oh=b4001f7a08fbe628ee1f8cb056d5d24b&oe=5841EA8D' width='500px'/><br/>Cấu hình máy tính giá rẻ</a>. Tại Khoa Việt Computer. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
